@@ -8,6 +8,6 @@ void main() {
 	printf("SanaPrakt02");
 	printf("SanaPrakt02");
 	printf("Курси Sana Commerce Software Development Bootcamp");
-	printf("Курси Sana Commerce Software Development Bootcamp");
-	printf("Курси Sana Commerce Software Development Bootcamp");
+	printf("IPZ-22-1");
+	printf("IPZ-22-1");
 }
